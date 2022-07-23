@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: hsla(114, 40%, 57%, 0.53);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-align: center;
+    color: hsla(332, 55%, 51%, 0.53);
+}
+
+h2 {
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 700px;
+}
+
+th {
+    background-color: hsla(196, 92%, 63%, 1);
+}
+th, td {
+    padding: 8px;
+    border: 1px solid black;
+}
+
